@@ -1,0 +1,10 @@
+numpy
+pandas
+json
+requests
+geopy
+folium
+Matplotlib
+sklearn
+yellowbrick
+shapely
