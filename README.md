@@ -1,6 +1,6 @@
 # Access to Parks and Fitness Facilities in Manhattan
 
-Access to green space has been shown to improve both [physical](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444752/) and [mental](https://www.pnas.org/content/116/11/5188) health. More than [80% of adults in the US](https://www.hhs.gov/fitness/resource-center/facts-and-statistics/index.html) don't meet the recommended guidelines for physical activity. Although green space and exercise are vital to our health, many Americans live in neighborhoods that lack access to these spaces.
+Access to green space has been shown to improve both [physical](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444752/) and [mental](https://www.pnas.org/content/116/11/5188) health. More than [80% of adults in the US](https://www.hhs.gov/fitness/resource-center/facts-and-statistics/index.html) do not meet the recommended guidelines for physical activity. Although green space and exercise are vital to our health, many Americans live in neighborhoods that lack access to these spaces.
 
 This project aims to explore this issue by characterizing Manhattan neighborhoods based on access to parks and sports/fitness facilities. The level of access to these facilities across different neighborhoods is then explored in relation to socio-economic factors such as income.
 
